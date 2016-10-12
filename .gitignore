@@ -1,0 +1,11 @@
+# Build artifacts
+build/
+*.o
+brainfuck-interpreter
+
+# Precompiled headers
+*.gch
+*.pch
+
+# CLion
+.idea/
